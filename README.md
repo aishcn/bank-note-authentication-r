@@ -1,4 +1,4 @@
-# Bank Note Authentication in R
+# Bank Note Authentication
 
 Over the past few decades there has been a decrease in the use of currency due to recent growth in the use of electronic transactions. However, cash transactions remain very important in the global market. Hence, there is a dire need in banks and ATM machines to implement a system that classifies a note as genuine or fake.
 
